@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Adrien altieria
+      label: Programmer un rendez-vous Téléphonique
       color: text-primary
       type: Badge
     elementId: ''

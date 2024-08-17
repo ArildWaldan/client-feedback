@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: En savoir plus
         altText: ''
         url: /
         showIcon: true

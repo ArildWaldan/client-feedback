@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: Programmer un rendez-vous Téléphonique
-      color: text-dark
+      color: text-light
       type: Badge
     elementId: ''
     colors: bg-neutral-fg-dark

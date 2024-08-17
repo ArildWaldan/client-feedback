@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Formulaire de contact
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle

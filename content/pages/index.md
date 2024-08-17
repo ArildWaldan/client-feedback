@@ -13,7 +13,7 @@ sections:
       Castorama. **Adrien Altier**i, directeur magasin **Castorama Metz** est à
       votre écoute pour vos retours, idées, avis, etc.
     actions:
-      - label: Get started
+      - label: Prendre rendez-vous
         altText: ''
         url: /
         showIcon: false

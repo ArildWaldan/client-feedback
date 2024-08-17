@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Programmez un rendez-vous
+      text: Adrien Altieri
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

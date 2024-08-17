@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Directeur Magasin - Castorama Metz
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Merci de l'intérêt que vous portez à l'amélioration de l'expérience client
+      Castorama. **Adrien Altier**i, directeur magasin **Castorama Metz** est à
+      votre écoute pour vos retours, idées, avis, etc.
     actions:
       - label: Get started
         altText: ''

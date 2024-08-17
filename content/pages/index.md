@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Adrien altieri
+      label: Adrien altieria
       color: text-primary
       type: Badge
     elementId: ''

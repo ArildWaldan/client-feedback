@@ -689,11 +689,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Indisponible pour une conversation ?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Vous ne souhaitez pas programmer une conversation téléphonique ? Pas de
+      soucis, Adrien reste à votre écoute. N'hésitez pas à laisser un message
+      avec vos commentaires, retours, ou avis : 
     media:
       fields:
         - name: name

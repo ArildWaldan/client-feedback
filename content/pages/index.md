@@ -96,7 +96,7 @@ sections:
           réunion avec Adrien Altieri sera automatiquement généré à la date et
           l'heure choisies.
         image:
-          url: /images/icon2.svg
+          url: /images/Capture d’écran 2024-08-18 à 13.12.55.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

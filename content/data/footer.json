@@ -78,6 +78,13 @@
             "url": "https://www.facebook.com/castorama/",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/user/castoramafrance",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [

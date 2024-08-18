@@ -138,7 +138,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Prendre rendez-vous
         altText: ''
         url: /
         showIcon: false

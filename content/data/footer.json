@@ -1,33 +1,40 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/logo-castorama.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pt-0"
+                ]
+            }
+        }
     },
-    "text": "A description of your brand",
+    "text": "Castorama Metz\n\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Nous connaître",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Castorama France",
+                "altText": "",
+                "url": "https://www.castorama.fr/castorama-france",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Le groupe Kingfisher",
+                "url": "https://www.castorama.fr/groupe-kingfisher",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Changer nous fait avancer",
+                "url": "https://www.castorama.fr/changer-nous-fait-avancer",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,20 +44,20 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Vous informer",
         "links": [
             {
-                "label": "Careers",
+                "label": "Questions fréquentes",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.castorama.fr/relation-client/faq",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Politique de protection des données",
+                "url": "https://www.castorama.fr/politique-de-confidentialite",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,42 +68,44 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://twitter.com/castorama_fr",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/castorama/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/castorama/",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/user/castoramafrance",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Votre avis est important",
+            "url": "https://www.castorama.fr/votre-avis-est-important",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
+            "label": "Conditions générales de vente",
+            "url": "https://www.castorama.fr/cgv-achat-en-ligne",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

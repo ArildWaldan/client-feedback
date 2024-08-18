@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Prendre rendez-vous
         altText: ''
-        url: /
+        url: 'https://calendly.com/arnaud-derhan-castorama/30min'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -53,24 +53,23 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Faire un retour
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Chiosissez la méthode de communication à votre convenance.
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Téléphone
+        subtitle: Rappel téléphonique
+        text: >
+          Laissez votre numéro de téléphone, et Adrien Altieri vous rappellera
+          lors du créneau sélectionné sur la page de rendez-vous.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -78,7 +77,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: small
             flexDirection: row
             justifyContent: center
             textAlign: left
@@ -86,23 +85,23 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Capture d’écran 2024-08-18 à 13.09.00.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Visio
+        subtitle: Conférence Teams/Zoom
+        text: >
+          Sélectionnez "Visio" lors de la prise de rendez vous, et un lien de
+          réunion avec Adrien Altieri sera automatiquement généré à la date et
+          l'heure choisies.
         image:
-          url: /images/icon2.svg
+          url: /images/Capture d’écran 2024-08-18 à 13.12.55.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -110,24 +109,24 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: small
             flexDirection: row
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Message
+        subtitle: Courrier éléctronique
+        text: >
+          Si vous souhaitez simplement faire parvenir un message écrit à Adrien
+          Altieri, c'est également possible. Une réponse vous sera donnée
+          rapidement.
         image:
-          url: /images/icon3.svg
+          url: /images/Capture d’écran 2024-08-18 à 13.16.43.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -135,21 +134,30 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: small
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - type: Button
+        label: Prendre rendez-vous
         altText: ''
-        url: /
+        url: 'https://calendly.com/arnaud-derhan-castorama/30min'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
-        type: Button
+      - type: Button
+        label: Envoyer un message
+        altText: ''
+        url: /message
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
-      label: This is a badge
+      label: Prise de contact
       color: text-primary
       styles:
         self:
@@ -166,262 +174,104 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mb-0
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Formulaire de contact
       color: text-dark
-      styles:
-        self:
-          textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Indisponible pour une conversation ?
+    text: >
+      Vous ne souhaitez pas programmer une conversation téléphonique ? Pas de
+      soucis, Adrien reste à votre écoute. N'hésitez pas à laisser un message
+      avec vos commentaires, retours, ou avis : 
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
+      fields:
+        - name: name
+          label: Name
+          hideLabel: true
+          placeholder: Votre Nom
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Votre e-mail
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Votre message
+          width: full
+          type: TextareaFormControl
+          isRequired: true
+      elementId: contact-form
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
+      type: FormBlock
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Envoyer
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
+        elementId: null
     badge:
-      label: This is a badge
+      label: Contactez nous
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
+    elementId: message
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: CarouselSection
     title: null
     subtitle: 'Avis de clients de Castorama Metz :'
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: “Exemple de retour client n°1”
+        tagline: Exemple d'avis 1
+        subtitle: Gerard Mensoif
+        text: |
+          Corps du retour client
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
               borderRadius: full
+              margin:
+                - mt-2
+                - ml-2
+                - mb-2
+                - mr-2
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -444,14 +294,13 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
           altText: John Doe
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -460,7 +309,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
@@ -586,71 +435,12 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Formulaire de contact
-      color: text-dark
-      type: TitleBlock
-    subtitle: Indisponible pour une conversation ?
-    text: >
-      Vous ne souhaitez pas programmer une conversation téléphonique ? Pas de
-      soucis, Adrien reste à votre écoute. N'hésitez pas à laisser un message
-      avec vos commentaires, retours, ou avis : 
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Votre Nom
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Votre e-mail
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Votre message
-          width: full
-          type: TextareaFormControl
-          isRequired: true
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Envoyer
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contactez nous
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

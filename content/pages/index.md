@@ -255,6 +255,8 @@ sections:
               margin:
                 - mt-2
                 - ml-2
+                - mb-2
+                - mr-2
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark

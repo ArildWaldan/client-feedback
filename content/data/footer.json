@@ -88,7 +88,7 @@
     "legalLinks": [
         {
             "label": "Votre avis est important",
-            "url": "/",
+            "url": "https://www.castorama.fr/votre-avis-est-important",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

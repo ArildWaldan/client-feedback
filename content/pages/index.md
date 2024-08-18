@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Choisissez la méthode de connexion
+    subtitle: À vous de choisir la méthode qui vous convient le mieux
     items:
       - type: FeaturedItem
         title: Téléphone

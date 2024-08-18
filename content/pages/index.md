@@ -116,10 +116,10 @@ sections:
         type: FeaturedItem
       - title: Message
         subtitle: Courrier éléctronique
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Si vous souhaitez simplement faire parvenir un message écrit à Adrien
+          Altieri, c'est également possible. Une réponse vous sera donnée
+          rapidement.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

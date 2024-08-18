@@ -139,7 +139,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: Get started
+        label: Prendre rendez-vous
         altText: ''
         url: ''
         showIcon: false

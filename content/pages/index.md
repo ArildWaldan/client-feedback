@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: À vous de choisir la méthode qui vous convient le mieux
+    subtitle: À vous de choisir la méthode qui vous convient le mieux.
     items:
       - type: FeaturedItem
         title: Téléphone

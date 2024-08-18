@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Castorama.fr",
-            "url": "/pricing",
+            "url": "https://www.castorama.fr/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

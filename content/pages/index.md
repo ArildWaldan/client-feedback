@@ -254,6 +254,7 @@ sections:
               borderRadius: full
               margin:
                 - mt-2
+                - ml-2
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark

@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/logo-castorama.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pt-2"
+                ]
+            }
+        }
     },
     "text": "Castorama Metz\n",
     "primaryLinks": {

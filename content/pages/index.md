@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: Téléphone
         subtitle: Rappel téléphonique
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Laissez votre numéro de téléphone, et Adrien Altieri vous rappellera
+          lors du créneau sélectionné sur la page de rendez-vous.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

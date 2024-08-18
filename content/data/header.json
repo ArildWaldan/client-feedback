@@ -23,7 +23,7 @@
         {
             "label": "Services",
             "altText": "Services",
-            "url": "/blog",
+            "url": "https://www.castorama.fr/services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

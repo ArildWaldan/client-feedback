@@ -252,6 +252,8 @@ sections:
           styles:
             self:
               borderRadius: full
+              margin:
+                - mt-2
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark

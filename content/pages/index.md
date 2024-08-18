@@ -141,7 +141,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: Prendre rendez-vous
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right

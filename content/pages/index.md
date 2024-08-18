@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Message
-        subtitle: Faster
+        subtitle: Courrier éléctronique
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

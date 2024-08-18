@@ -91,10 +91,10 @@ sections:
               borderRadius: x-large
       - title: Visio
         subtitle: Conférence Teams/Zoom
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sélectionnez "Visio" lors de la prise de rendez vous, et un lien de
+          réunion avec Adrien Altieri sera automatiquement généré à la date et
+          l'heure choisies.
         image:
           url: /images/icon2.svg
           altText: Featured icon two

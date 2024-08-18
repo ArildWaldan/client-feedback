@@ -77,6 +77,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/castorama/",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [

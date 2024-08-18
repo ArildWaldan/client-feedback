@@ -141,7 +141,7 @@ sections:
       - type: Button
         label: Prendre rendez-vous
         altText: ''
-        url: ''
+        url: 'https://calendly.com/arnaud-derhan-castorama/30min'
         showIcon: false
         icon: arrowRight
         iconPosition: right

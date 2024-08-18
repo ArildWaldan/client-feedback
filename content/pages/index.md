@@ -148,7 +148,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Envoyer un message
         altText: ''
         url: /home
         showIcon: false

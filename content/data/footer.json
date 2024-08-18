@@ -47,7 +47,7 @@
         "title": "Vous informer",
         "links": [
             {
-                "label": "Careers",
+                "label": "Questions fréquentes",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",

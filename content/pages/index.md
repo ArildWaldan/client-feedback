@@ -194,10 +194,8 @@ sections:
       - title: “Exemple de retour client n°1”
         tagline: Exemple d'avis 1
         subtitle: Gerard Mensoif
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Corps du retour client
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters

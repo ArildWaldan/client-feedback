@@ -247,7 +247,7 @@ sections:
         text: |
           Corps du retour client
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/5mTHBj5s_400x400.jpg
           altText: Maria Walters
           styles:
             self:

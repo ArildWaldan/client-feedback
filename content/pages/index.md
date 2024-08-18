@@ -157,7 +157,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - mb-3
+          - mb-0
       subtitle:
         textAlign: center
   - title:

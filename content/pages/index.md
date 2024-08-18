@@ -191,9 +191,7 @@ sections:
     title: null
     subtitle: 'Avis de clients de Castorama Metz :'
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “Exemple de retour client n°1”
         tagline: Exemple d'avis 1
         subtitle: 'Maria Walters, Company'
         text: >-

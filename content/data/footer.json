@@ -49,7 +49,7 @@
             {
                 "label": "Questions fréquentes",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.castorama.fr/relation-client/faq",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

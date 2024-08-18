@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Choisissez la méthode de connexion
     items:
       - type: FeaturedItem
         title: 500k

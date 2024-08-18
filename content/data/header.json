@@ -22,7 +22,7 @@
         },
         {
             "label": "Services",
-            "altText": "Blog",
+            "altText": "Services",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",

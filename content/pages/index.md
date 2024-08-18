@@ -150,7 +150,7 @@ sections:
       - type: Button
         label: Envoyer un message
         altText: ''
-        url: /home
+        url: /message
         showIcon: false
         icon: arrowRight
         iconPosition: right

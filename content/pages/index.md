@@ -138,15 +138,6 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Prendre rendez-vous
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
       - type: Button
         label: Get started
         altText: ''

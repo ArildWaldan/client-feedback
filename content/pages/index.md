@@ -121,7 +121,7 @@ sections:
           Altieri, c'est également possible. Une réponse vous sera donnée
           rapidement.
         image:
-          url: /images/icon3.svg
+          url: /images/Capture d’écran 2024-08-18 à 13.16.43.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

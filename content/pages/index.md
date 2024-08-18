@@ -148,7 +148,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Prise de contact
       color: text-primary
       styles:
         self:

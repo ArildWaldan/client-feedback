@@ -57,7 +57,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "https://www.castorama.fr/politique-de-confidentialite",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

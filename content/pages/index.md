@@ -193,7 +193,7 @@ sections:
     items:
       - title: “Exemple de retour client n°1”
         tagline: Exemple d'avis 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Gerard Mensoif
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

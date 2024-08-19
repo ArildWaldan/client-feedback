@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Chiosissez la méthode de communication à votre convenance.
+    subtitle: Choisissez la méthode de contact à votre convenance.
     items:
       - type: FeaturedItem
         title: Téléphone

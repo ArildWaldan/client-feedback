@@ -49,6 +49,7 @@ sections:
             - mb-36
             - mr-36
           borderWidth: 8
+          borderColor: border-light
     badge:
       label: Programmer un rendez-vous Téléphonique
       color: text-dark

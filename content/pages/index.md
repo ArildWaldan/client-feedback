@@ -44,10 +44,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-5
-            - ml-5
-            - mb-5
-            - mr-5
+            - mt-2
+            - ml-2
+            - mb-2
+            - mr-2
           borderWidth: 8
           borderColor: border-light
           borderStyle: solid

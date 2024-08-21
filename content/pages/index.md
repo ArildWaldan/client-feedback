@@ -50,6 +50,7 @@ sections:
             - mr-36
           borderWidth: 8
           borderColor: border-light
+          borderStyle: solid
     badge:
       label: Programmer un rendez-vous Téléphonique
       color: text-dark

@@ -44,10 +44,10 @@ sections:
             - pb-5
             - pr-5
           margin:
-            - mt-36
-            - ml-36
-            - mb-36
-            - mr-36
+            - mt-16
+            - ml-16
+            - mb-16
+            - mr-16
     badge:
       label: Programmer un rendez-vous Téléphonique
       color: text-dark

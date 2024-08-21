@@ -43,6 +43,11 @@ sections:
             - pl-10
             - pb-10
             - pr-10
+          margin:
+            - mt-10
+            - ml-10
+            - mb-10
+            - mr-10
     badge:
       label: Programmer un rendez-vous Téléphonique
       color: text-dark

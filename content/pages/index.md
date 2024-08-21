@@ -80,8 +80,8 @@ sections:
         title: Téléphone
         subtitle: Rappel téléphonique
         text: >
-          Laissez votre numéro de téléphone, et Adrien Altieri vous rappellera
-          lors du créneau sélectionné sur la page de rendez-vous.
+          Laissez votre numéro de téléphone, et je vous rappellerai lors du
+          créneau de votre choix, à sélectionner sur la page de rendez-vous.
         actions: []
         elementId: null
         colors: bg-light-fg-dark

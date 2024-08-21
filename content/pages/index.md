@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-20
-            - pl-20
-            - pb-20
-            - pr-20
+            - pt-5
+            - pl-5
+            - pb-5
+            - pr-5
           margin:
             - mt-12
             - ml-12

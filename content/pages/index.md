@@ -10,8 +10,8 @@ sections:
     subtitle: Directeur Magasin - Castorama Metz
     text: >
       Merci de l'intérêt que vous portez à l'amélioration de l'expérience client
-      Castorama. **Adrien Altier**i, directeur magasin **Castorama Metz** est à
-      votre écoute pour vos retours, idées, avis, etc.
+      **Castorama**. En tant que directeur du magasin **Castorama Metz**, je
+      suis à votre écoute pour vos retours, idées, avis, etc.
     actions:
       - label: Prendre rendez-vous
         altText: ''

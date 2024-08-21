@@ -67,10 +67,10 @@ sections:
           - pb-8
           - pr-8
         margin:
-          - mt-32
-          - ml-32
-          - mb-32
-          - mr-32
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
   - type: FeaturedItemsSection
     title:
       text: Faire un retour

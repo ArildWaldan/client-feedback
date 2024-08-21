@@ -66,6 +66,11 @@ sections:
           - pl-8
           - pb-8
           - pr-8
+        margin:
+          - mt-8
+          - ml-8
+          - mb-8
+          - mr-8
   - type: FeaturedItemsSection
     title:
       text: Faire un retour

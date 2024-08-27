@@ -10,8 +10,8 @@ sections:
     subtitle: Directeur Magasin - Castorama Metz
     text: >
       Merci de l'intérêt que vous portez à l'amélioration de l'expérience client
-      Castorama. **Adrien Altier**i, directeur magasin **Castorama Metz** est à
-      votre écoute pour vos retours, idées, avis, etc.
+      **Castorama**. En tant que directeur du magasin **Castorama Metz**, je
+      suis à votre écoute pour vos retours, idées, avis, etc.
     actions:
       - label: Prendre rendez-vous
         altText: ''
@@ -36,6 +36,21 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
+          margin:
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
+          borderWidth: 8
+          borderColor: border-light
+          borderStyle: solid
     badge:
       label: Programmer un rendez-vous Téléphonique
       color: text-dark
@@ -47,10 +62,15 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-8
+          - pl-8
+          - pb-8
+          - pr-8
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
   - type: FeaturedItemsSection
     title:
       text: Faire un retour
@@ -65,8 +85,8 @@ sections:
         title: Téléphone
         subtitle: Rappel téléphonique
         text: >
-          Laissez votre numéro de téléphone, et Adrien Altieri vous rappellera
-          lors du créneau sélectionné sur la page de rendez-vous.
+          Laissez votre numéro de téléphone, et je vous rappellerai lors du
+          créneau de votre choix, à sélectionner sur la page de rendez-vous.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
